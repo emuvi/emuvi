@@ -1,18 +1,24 @@
 * Emuvs
 
-Olá, meu nome é Everton Murilo Vieira, eu sou um programador e filosófo, basicamente um
-escritor, as vezes escrevo algoritmos e estruturas de dados, as vezes escrevo sobre a vida 
-e as coisas. Meus interesses estão em informação, conhecimento, inteligência e sabedoria.
-Todo o esforco que empenho nessa vida se dá em prol de alcançar essas finalidades. 
-
-Este é o meu caderno de anotações pessoais. Nesse espaco eu faço os registros de algumas das
-minhas impressões, pensamentos e idéias. Procurando sempre densevolve-las o mais e da melhor
-maneira possível. Aqui é onde eu deixo o fluxo da minha consciência registrado para viabilizar
-futuras referências.
+Olá visitante, este é o espaço de desenvolvimento de Everton Murilo Vieira.
+Sou um programador e filósofo. Assim, as vezes escrevo algoritmos e estruturas de dados,
+as vezes escrevo sobre a vida e as coisas. Meus interesses estão em informação e informática, 
+conhecimento e epistemologia, inteligência e sabedoria. Todo o esforço que empenho nessa vida 
+se dá em prol das finalidades desses campos.
 
 * Projetos
 
 Estes são os meus projetos atuais.
+
+** AdMister
+
+Interface gráfica escrita em React para administração de negócios.
+
+
+** AdServer
+
+Servidor para o AdMister escrito em Go com banco de dados Postgres.
+
 
 ** Pacmidia
 
@@ -24,6 +30,7 @@ armazenamento, classificacão e recuperacão.
 
  - [ ] Um conjunto de mídia é armezado dentro de uma pasta com os seus metadados.
  - [ ] Dois ou mais arquivos de mídia iguais devem ocupar um único espaco na raiz. 
+
 
 * Poesias
 

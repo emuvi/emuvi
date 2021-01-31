@@ -17,5 +17,4 @@
          :recursive t
          :publishing-function org-publish-attachment
          )
-        ))
-("emuvs" :components ("emuvs-notes" "emuvs-static"))
+        ("emuvs" :components ("emuvs-notes" "emuvs-static"))))
