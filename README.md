@@ -1,5 +1,3 @@
-Olá visitante, este é o espaço de desenvolvimento de Everton Murilo Vieira.
-Sou um programador e filósofo. Assim, as vezes escrevo algoritmos e estruturas de dados,
-as vezes escrevo sobre a vida e as coisas. Meus interesses estão em informação e informática, 
-conhecimento e epistemologia, inteligência e sabedoria. Todo o esforço que empenho nessa vida 
-se dá em prol das finalidades desses campos.
+Hello visitor, this is Éverton Vieira's development space. I am a programmer but also a thinker. So, I live writing algorithms and data structures in the most diverse languages, from C to R, but sometimes I write about the life and the things. My interests are in the fields of informatics and information, technology and epistemology, intelligence and wisdom. When writing these pairs I realize that in sequence they synthesize the synergy that I understand to be the ideal between practice and theory.
+
+Olá visitante, este é o espaço de desenvolvimento de Éverton Vieira. Sou um programador mas também um pensador. Assim, vivo escrevendo algoritmos e estruturas de dados nas mais diversas linguagens, do C ao R, mas às vezes escrevo sobre a vida e as coisas. Meus interesses estão nos campos da informática e informação, tecnologia e epistemologia, inteligência e sabedoria. Ao escrever estes pares percebo que em sequência eles sintetizam a sinergia que compreendro ser o ideal entre prática e teoria.
