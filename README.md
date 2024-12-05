@@ -12,7 +12,7 @@ Solutions with Knowledge and Intelligence through the Power of Information."
 
 ---
 
-Sou um Engenheiro e Professor movido pela paixão de explorar a sinergia entre tecnologia e
+Eu Sou um Engenheiro e Professor movido pela paixão de explorar a sinergia entre tecnologia e
 sabedoria. Guiado por um pensamento filosófico estruturado, eu me esforço para desenvolver soluções
 inovadoras em uma ampla gama de plataformas nos mais diversos campos de aplicação. Da mesma forma,
 também adoro analisar todos os tópicos em uma visão ampla, desde os desafios técnicos concretos até
