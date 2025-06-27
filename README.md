@@ -2,22 +2,28 @@
 
 ---
 
-I am an Engineer driven by a passion for exploring the synergy between technology and
-wisdom. Guided by structured philosophical thinking and a sharp intuition, I thrive on conceiving
-and collaborate on the implementation of innovative solutions across a wide range of platforms in
-the most diverse fields of application. As such, I love to analyze all topics with a holistic
-perspective, from concrete practical challenges to abstract orientation concepts. My focus is on
-transforming information into actionable knowledge and intelligence, creating solutions that embody
-the essence of my motto: "From Technology to Wisdom: Solutions with Knowledge and Intelligence
-through the Power of Information."
+My professional career is marked by the constant search for synergy between technology and wisdom.
+Guided by a structured philosophical thinking and a keen intuition, I seek, through this art, to
+conceive, develop and collaborate in the implementation of innovative solutions across a wide range
+of platforms and fields of application. My approach is characterized by a holistic perspective,
+capable of analyzing challenges from concrete technical aspects to the most abstract concepts. My
+work consists of transforming data into actionable information, knowledge and intelligence. My
+motto is "From Technology to Wisdom: Solutions with Knowledge and Intelligence through the Power of
+Information and Consciousness". With extensive experience in both the public and private sectors, a
+solid academic background and a substantial continuous learning, I always aim for a high level of
+competence in both conception and leadership, integrated into the management of consistent
+projects.
 
 ---
 
-Eu Sou um Engenheiro movido pela paixão de explorar a sinergia entre tecnologia e
-sabedoria. Guiado por um pensamento filosófico estruturado e uma intuição aguçada, eu me realizo em
-conceber e colaborar na implementação de soluções inovadoras em uma ampla gama de plataformas nos
-mais diversos campos de aplicação. Assim sendo, eu amo analisar todos os tópicos com uma
-perspectiva holística, desde os desafios práticos concretos até os conceitos de orientação
-abstrata. Meu foco está em transformar informações em conhecimento e inteligência acionáveis,
-criando soluções que incorporem a essência do meu mote: "Da Tecnologia à Sabedoria: Soluções com
-Conhecimento e Inteligência através do Poder da Informação".
+Minha trajetória profissional é marcada pela busca constante da sinergia entre a tecnologia e a
+sabedoria. Guiado por um pensamento filosófico estruturado e uma intuição aguçada, busco, dessa
+arte, conceber, desenvolver e colaborar na implementação de soluções inovadoras em uma ampla gama
+de plataformas e campos de aplicação. Minha abordagem é caracterizada por uma perspectiva
+holística, capaz de analisar os desafios desde os aspectos técnicos concretos até os conceitos mais
+abstratos. O meu trabalho consiste na transformação de dados em informação, conhecimento e
+inteligência acionáveis. Meu lema é "Da Tecnologia à Sabedoria: Soluções com Conhecimento e
+Inteligência através do Poder da Informação e da Consciência". Com uma vasta experiência tanto no
+setor público quanto no privado, uma sólida formação acadêmica e um aprendizado contínuo
+substancial, visando assim, sempre um alto nível de competência tanto na concepção quanto na
+liderança, integradas na gestão de projetos consistentes.
