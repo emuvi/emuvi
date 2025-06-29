@@ -2,28 +2,8 @@
 
 ---
 
-My professional career is marked by the constant search for synergy between technology and wisdom.
-Guided by structured philosophical thinking and a keen intuition, I seek, through this art, to
-conceive, develop and collaborate in the implementation of innovative solutions across a wide range
-of platforms and fields of application. My approach is characterized by a holistic perspective,
-capable of analyzing challenges from concrete technical aspects to the most abstract concepts. My
-work consists of facilitating technology, information, knowledge, intelligence and wisdom. My motto
-is "From Technology to Wisdom: Solutions with Knowledge and Intelligence through the Power of
-Information and Consciousness". With extensive experience in both the public and private sectors, a
-solid academic background and substantial continuous learning, I always aim for a high level of
-competence in both conception and leadership, integrated into the management of consistent
-projects.
+My professional career is marked by the constant search for synergy between technology and wisdom. Guided by structured philosophical thinking and a keen intuition, I seek, through this art, to conceive, develop and collaborate in the implementation of innovative solutions across a wide range of platforms and fields of application. My approach is characterized by a holistic perspective, capable of analyzing challenges from concrete technical aspects to the most abstract concepts. My work consists of facilitating technology, information, knowledge, intelligence and wisdom. My motto is "From Technology to Wisdom: Solutions with Knowledge and Intelligence through the Power of Information and Consciousness". With extensive experience in both the public and private sectors, a solid academic background and substantial continuous learning, thus aiming for a high level of competence in both design and leadership, always integrated into the management of consistent projects.
 
 ---
 
-Minha trajetória profissional é marcada pela busca constante da sinergia entre a tecnologia e a
-sabedoria. Guiado por um pensamento filosófico estruturado e uma intuição aguçada, busco, dessa
-arte, conceber, desenvolver e colaborar na implementação de soluções inovadoras em uma ampla gama
-de plataformas e campos de aplicação. Minha abordagem é caracterizada por uma perspectiva
-holística, capaz de analisar os desafios desde os aspectos técnicos concretos até os conceitos mais
-abstratos. Meu trabalho consiste na facilitação da tecnologia, informação, conhecimento,
-inteligência e sabedoria. Meu lema é "Da Tecnologia à Sabedoria: Soluções com Conhecimento e
-Inteligência através do Poder da Informação e da Consciência". Com uma vasta experiência tanto no
-setor público quanto no privado, uma sólida formação acadêmica e um aprendizado contínuo
-substancial, visando assim, sempre um alto nível de competência tanto na concepção quanto na
-liderança, integradas na gestão de projetos consistentes.
+Minha trajetória profissional é marcada pela busca constante da sinergia entre a tecnologia e a sabedoria. Guiado por um pensamento filosófico estruturado e uma intuição aguçada, busco, dessa arte, conceber, desenvolver e colaborar na implementação de soluções inovadoras em uma ampla gama de plataformas e campos de aplicação. Minha abordagem é caracterizada por uma perspectiva holística, capaz de analisar os desafios desde os aspectos técnicos concretos até os conceitos mais abstratos. Meu trabalho consiste na facilitação da tecnologia, informação, conhecimento, inteligência e sabedoria. Meu lema é "Da Tecnologia à Sabedoria: Soluções com Conhecimento e Inteligência através do Poder da Informação e da Consciência". Com uma vasta experiência tanto no setor público quanto no privado, uma sólida formação acadêmica e um aprendizado contínuo substancial, visando assim, um alto nível de competência tanto na concepção quanto na liderança, sempre integradas na gestão de projetos consistentes.
